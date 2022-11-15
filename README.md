@@ -1,3 +1,5 @@
+PROJECT INTRODUCTION
+
 Latar Belakang :
 Perusahaan asuransi travel ingin menerapkan sistem seleksi cerdas berbasis machine learning. Sistem seleksi cerdas tersebut akan menilai apakah customer  mendapatkan klaim asuransi atau tidak dengan melihat profil yang diekstrak dari data-data perjalanan customer.  
 
